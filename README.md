@@ -6,8 +6,8 @@ Date & Time| Topic | Recording |
 --- | --- | --- |
 16th March 2023, 09:30 | Kickoff | |
 13th April 2023, 09:30 | Quantum Entanglement & Gates| |
-11th May 2023, 09:30 | Superdense coding | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/EXDTb3m7lCtKtSOQTdaLGswBhnIHkFl1IYFbBRtil2AShg |
-08th June 2023, 09:30 | Quantum Teleportation | |
+11th May 2023, 09:30 | Superdense coding | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/ERqR7RwEN3dJj-j4Awea7voBOS6EErIHrw8lPbHh8XGUhA|
+08th June 2023, 09:30 | Quantum Teleportation | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/EXDTb3m7lCtKtSOQTdaLGswBhnIHkFl1IYFbBRtil2AShg|
 06th July 2023, 09:30 | Noisy Gates | |
 
 ## Books / Lectures notes
