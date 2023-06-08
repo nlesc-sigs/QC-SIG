@@ -2,13 +2,13 @@
 Quantum Computing SIG
 
 ## Sessions
-Date & Time| Topic |
---- | --- |
-16th March 2023, 09:30 | Kickoff | 
-13th April 2023, 09:30 | Quantum Entanglement & Gates|
-11th May 2023, 09:30 | | 
-08th June 2023, 09:30 | |
-06th July 2023, 09:30 | |
+Date & Time| Topic | Recording |
+--- | --- | --- |
+16th March 2023, 09:30 | Kickoff | |
+13th April 2023, 09:30 | Quantum Entanglement & Gates| |
+11th May 2023, 09:30 | Superdense coding | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/EXDTb3m7lCtKtSOQTdaLGswBhnIHkFl1IYFbBRtil2AShg |
+08th June 2023, 09:30 | Quantum Teleportation | |
+06th July 2023, 09:30 | Noisy Gates | |
 
 ## Books / Lectures notes
 
