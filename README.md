@@ -1,14 +1,27 @@
 # QC-SIG
 Quantum Computing SIG
 
-## Sessions
-Date & Time| Topic | Recording |
---- | --- | --- |
-16th March 2023, 09:30 | Kickoff | |
-13th April 2023, 09:30 | Quantum Entanglement & Gates| |
-11th May 2023, 09:30 | Superdense coding | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/ERqR7RwEN3dJj-j4Awea7voBOS6EErIHrw8lPbHh8XGUhA|
-08th June 2023, 09:30 | Quantum Teleportation | https://nlesc-my.sharepoint.com/:v:/g/personal/p_chandramouli_esciencecenter_nl/EXDTb3m7lCtKtSOQTdaLGswBhnIHkFl1IYFbBRtil2AShg|
-06th July 2023, 09:30 | Noisy Gates | |
+## Upcoming Sessions
+Date & Time| Topic |
+--- | --- |
+05th October 2023, 09:30 | Quantum Hardware | 
+02nd November 2023, 09:30 | Quantum Algorithm  - Hands-on Coding |
+29th November 2023, 09:30 | |
+28th December 2023, 09:30 | |
+
+## PAST SESSTION
+Date & Time| Topic |
+--- | --- |
+06th July 2023, 09:30 | Noisy Gates |
+08th June 2023, 09:30 | Quantum Teleportation |
+11th May 2023, 09:30 | Superdense coding |
+13th April 2023, 09:30 | Quantum Entanglement & Gates|
+16th March 2023, 09:30 | Kickoff |
+
+
+
+
+
 
 ## Books / Lectures notes
 
