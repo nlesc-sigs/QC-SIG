@@ -9,7 +9,7 @@ Date & Time| Topic |
 29th November 2023, 09:30 | |
 28th December 2023, 09:30 | |
 
-## PAST SESSTION
+## Past Sessions
 Date & Time| Topic |
 --- | --- |
 06th July 2023, 09:30 | Noisy Gates |
