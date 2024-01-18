@@ -7,8 +7,8 @@ Date & Time| Topic |
 05th October 2023, 09:30 | Quantum Hardware | 
 02nd November 2023, 09:30 | Quantum Algorithm  - Hands-on Coding |
 30th November 2023, 09:30 | Hands-on Coding - Teleportation and CHSH inequality |
-28th December 2023, 09:30 | |
-11th January 2024, 09:30 | |
+28th December 2023, 09:30 | No session |
+11th January 2024, 09:30 |  No session |
  8th February 2024, 09:30 | |
  7th March 2024, 09:30 | |
 
