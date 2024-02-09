@@ -4,17 +4,18 @@ Quantum Computing SIG
 ## Upcoming Sessions
 Date & Time| Topic |
 --- | --- |
-05th October 2023, 09:30 | Quantum Hardware | 
-02nd November 2023, 09:30 | Quantum Algorithm  - Hands-on Coding |
-30th November 2023, 09:30 | Hands-on Coding - Teleportation and CHSH inequality |
-28th December 2023, 09:30 | No session |
-11th January 2024, 09:30 |  No session |
- 8th February 2024, 09:30 | |
+ 8th February 2024, 09:30 | Aron Jansen (NLeSC) - Qubits & Quantum States (cancelled) |
+ 22th February 2024, 14:30 | Amira Abbas (QuSoft) - Introduction to QML |
  7th March 2024, 09:30 | |
 
 ## Past Sessions
 Date & Time| Topic |
 --- | --- |
+28th December 2023, 09:30 | No session |
+11th January 2024, 09:30 |  No session |
+30th November 2023, 09:30 | Hands-on Coding - Teleportation and CHSH inequality |
+02nd November 2023, 09:30 | Quantum Algorithm  - Hands-on Coding |
+05th October 2023, 09:30 | Quantum Hardware | 
 06th July 2023, 09:30 | Noisy Gates |
 08th June 2023, 09:30 | Quantum Teleportation |
 11th May 2023, 09:30 | Superdense coding |
