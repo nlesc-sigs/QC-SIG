@@ -7,6 +7,7 @@ Date & Time| Topic |
  8th February 2024, 09:30 | Aron Jansen (NLeSC) - Qubits & Quantum States (cancelled) |
  22th February 2024, 14:30 | Amira Abbas (QuSoft) - Introduction to QML |
  7th March 2024, 09:30 | |
+ 4th April 2024, 09:30 | |
 
 ## Past Sessions
 Date & Time| Topic |
