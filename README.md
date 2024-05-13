@@ -8,7 +8,8 @@ Date & Time| Topic |
  22th February 2024, 14:30 | Amira Abbas (QuSoft) - Introduction to QML |
  7th March 2024, 09:30 | Carlos Rocha (NLeSC) - Overview of the QCforQC project (NLeSC+SURF+VU)|
  4th April 2024, 09:30 | Aron Jansen (NLeSC) - Qubits & Quantum States |
- 2nd May, 2024, 09:30 ||
+ 2nd May, 2024, 09:30 | No session |
+ 30th May, 2024, 09:30 | Video from QHack2024 - qgym: A Gym for Training and Benchmarking RL-based Quantum Compilation |
 
 ## Past Sessions
 Date & Time| Topic |
